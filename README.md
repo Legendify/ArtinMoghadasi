@@ -16,8 +16,8 @@ YouTube Channel: www.youube.com/@gang.coder | GitHub other Profile: www.github.c
 **Projects** </br>
 
 *Telegram Bots* </br>
-🎼HeartBeat | MusicFinder: www.t.me/VoiceHeartbeatBot
-</br>
+🎼HeartBeat | MusicFinder: www.t.me/VoiceHeartbeatBot </br>
+
 *C++: Games - Tools* www.github.com/ArtinMoghadasi/CPP </br>
 
 *Python: Games - Apps - APIs - Graphics* www.github.com/ArtinMoghadasi/Python </br>
