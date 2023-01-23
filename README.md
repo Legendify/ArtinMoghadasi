@@ -11,7 +11,7 @@
 🤖 Robotic Student on Technorobiran Robotic Institute[I've Built four Robots]. </br>
 
 **Medias** </br> Instagram Public Programming Page: www.instgram.com/gang.coder | Telegram Channel: www.t.me/GangCoderCH </br>
-YouTube Channel: www.youube.com/@gang.coder | GitHub other Profile: www.github.com/ArtinProgrammer14 </br>
+YouTube Channel: www.youtube.com/@gang.coder | Other GitHub Profile: www.github.com/ArtinProgrammer14 </br>
 
 **Projects** </br>
 
