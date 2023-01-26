@@ -23,11 +23,11 @@ YouTube Channel: www.youtube.com/@gang.coder | Other GitHub Profile: www.github.
 
 🦾 *Robot Programs with C & C++*: </br>
 
-*PCBs Designs With Altium Designer*: 
+*PCB Designs With Altium Designer*: 
 
 *Board Designs with Proteus*: 
 
-*C Programms with CodeVision*: 
+*C Programs with CodeVision*:
 
 **Contact** </br>
 📧Email: artinmoghadasi7@gmail.com
