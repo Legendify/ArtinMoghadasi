@@ -10,9 +10,8 @@
 💬 Ask me about Your C++ & Python Projects - Football Player Robots - Web Concepts Like "How does a web page work?" or "How is it safe?". </br>
 🤖 Robotic Student on Technorobiran Robotic Institute[I've Built four Robots]. </br>
 
-**Medias** </br> Instagram Public Programming Page: www.instgram.com/gang.coder | Telegram Channel: www.t.me/GangCoderCH </br>
-YouTube Channel: www.youtube.com/@gang.coder | Other GitHub Profile: www.github.com/ArtinProgrammer14 | www.instagram.com/artin.projects </br>
-
+**Medias** </br> Gang Coder [a Community for Programmers] </br> Instagram www.instgram.com/gang.coder | Telegram www.t.me/GangCoderCH |YouTube www.youtube.com/@gang.coder </br> Instagram Accounts </br> Projects Account www.instagram.com/artin.projects |
+Personal Account www.istagram.com/artin.mgs </br> Artin Programmer14 GitHub www.github.com/ArtinProgrammer14 
 **Projects** </br>
 
 *Telegram Bots*: 🎼HeartBeat | MusicFinder www.t.me/VoiceHeartbeatBot </br>
@@ -23,11 +22,11 @@ YouTube Channel: www.youtube.com/@gang.coder | Other GitHub Profile: www.github.
 
 🦾 *Robot Programs with C & C++*: </br>
 
-*PCB Designs With Altium Designer*: 
+<--! *PCB Designs With Altium Designer*: 
 
 *Board Designs with Proteus*: 
 
 *C Programs with CodeVision*:
-
+-->
 **Contact** </br>
 📧Email: artinmoghadasi7@gmail.com
