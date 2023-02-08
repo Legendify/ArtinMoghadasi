@@ -12,15 +12,19 @@
 
 **Medias** </br> Gang Coder [a Community for Programmers] </br> Instagram www.instgram.com/gang.coder | Telegram www.t.me/GangCoderCH | YouTube www.youtube.com/@gang.coder </br> Instagram Accounts </br> Projects Account www.instagram.com/artin.projects |
 Personal Account www.istagram.com/artin.mgs </br> Artin Programmer14 GitHub www.github.com/ArtinProgrammer14 </br>
+
 **Projects** </br>
 
 *Telegram Bots*: 🎼HeartBeat | MusicFinder https://t.me/VoiceHeartbeatBot </br>
 
-⚡ *C++*: Games - Calculators - Tools: https://github.com/ArtinMoghadasi/CPP </br>
+⚡ *C++* </br>
+Games - Calculators - Tools https://github.com/ArtinMoghadasi/CPP </br>
 
-🐍 *Python*: Games - Apps - Graphics - Tools: https://github.com/ArtinMoghadasi/Python </br>
+🐍 *Python* </br>
+Games - Apps - Graphics - Tools https://github.com/ArtinMoghadasi/Python </br>
 
-🦾 *Robot Programs with C & C++*: https://github.com/ArtinMoghadasi/Robotic </br>
+🦾 *Robot Programs On TRI* </br>
+https://github.com/ArtinMoghadasi/Robotic </br>
 
 <!-- *PCB Designs With Altium Designer*: 
 
