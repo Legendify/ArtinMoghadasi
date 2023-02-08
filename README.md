@@ -6,12 +6,12 @@
 **This is Artin Moghadasi** </br>
 🔭 Currently working on Vega Music Telegram Bot | VegaTools | C++ & Python Simple Games & Apps. </br>
 🌱 Learning Python more Libraies and Modules like Turtle and PyGame to Develop Games and Apps. </br>
-🧐 Interested in Create and Develop Everything Like Games - Websites - Football Player Robots - Telegram Bots - Management Systems. </br>
+🧐 Interested in Create and Develop Everything Like Games - Websites - Football Player Robots - Telegram Bots - Management Systems & ... </br>
 💬 Ask me about Your C++ & Python Projects - Football Player Robots - Web Concepts Like "How does a web page work?" or "How is it safe?". </br>
-🤖 Robotic Student on Technorobiran Robotic Institute[I've Built four Robots]. </br>
+🤖 Robotic Student on Technorobiran Robotic Institute [I've Built four Robots]. </br>
 
-**Medias** </br> Gang Coder [a Community for Programmers] </br> Instagram www.instgram.com/gang.coder | Telegram www.t.me/GangCoderCH |YouTube www.youtube.com/@gang.coder </br> Instagram Accounts </br> Projects Account www.instagram.com/artin.projects |
-Personal Account www.istagram.com/artin.mgs </br> Artin Programmer14 GitHub www.github.com/ArtinProgrammer14 
+**Medias** </br> Gang Coder [a Community for Programmers] </br> Instagram www.instgram.com/gang.coder | Telegram www.t.me/GangCoderCH | YouTube www.youtube.com/@gang.coder </br> Instagram Accounts </br> Projects Account www.instagram.com/artin.projects |
+Personal Account www.istagram.com/artin.mgs </br> Artin Programmer14 GitHub www.github.com/ArtinProgrammer14 </br>
 **Projects** </br>
 
 *Telegram Bots*: 🎼HeartBeat | MusicFinder https://t.me/VoiceHeartbeatBot </br>
