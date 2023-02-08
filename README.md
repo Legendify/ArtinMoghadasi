@@ -14,13 +14,13 @@
 Personal Account www.istagram.com/artin.mgs </br> Artin Programmer14 GitHub www.github.com/ArtinProgrammer14 
 **Projects** </br>
 
-*Telegram Bots*: 🎼HeartBeat | MusicFinder www.t.me/VoiceHeartbeatBot </br>
+*Telegram Bots*: 🎼HeartBeat | MusicFinder https://t.me/VoiceHeartbeatBot </br>
 
-⚡ *C++*: Games - Calculators - Tools: www.github.com/ArtinMoghadasi/CPP </br>
+⚡ *C++*: Games - Calculators - Tools: https://github.com/ArtinMoghadasi/CPP </br>
 
-🐍 *Python*: Games - Apps - Graphics - Tools: www.github.com/ArtinMoghadasi/Python </br>
+🐍 *Python*: Games - Apps - Graphics - Tools: https://github.com/ArtinMoghadasi/Python </br>
 
-🦾 *Robot Programs with C & C++*: </br>
+🦾 *Robot Programs with C & C++*: https://github.com/ArtinMoghadasi/Robotic </br>
 
 <!-- *PCB Designs With Altium Designer*: 
 
