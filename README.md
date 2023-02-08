@@ -15,7 +15,7 @@ Personal Account www.istagram.com/artin.mgs </br> Artin Programmer14 GitHub www.
 
 **Projects** </br>
 
-*Telegram Bots*: 🎼HeartBeat | MusicFinder https://t.me/VoiceHeartbeatBot </br>
+*Telegram Bots* </br> 🎼HeartBeat | MusicFinder https://t.me/VoiceHeartbeatBot </br>
 
 ⚡ *C++* </br>
 Games - Calculators - Tools https://github.com/ArtinMoghadasi/CPP </br>
