@@ -6,7 +6,7 @@
 **This is Artin Moghadasi** </br>
 🔭 Currently Workig on VegaTools[Telegram Bot - Website - App] </br>
 🌱 Learning Advanced Python. </br>
-🧐 Interested in Create and Develop Everything Like Games - Websites - Football Player Robots - Telegram Bots - Management Systems & ... </br>
+🧐 Interested in Create and Develop Everything Like Games - Websites - Football Player Robots - Telegram Bots - Management Systems </br>
 💬 Ask me about Your C++ & Python Projects - Football Player Robots - Web Concepts Like "How does a web page work?" or "How is it safe?". </br>
 🤖 Robotic Student on Technorobiran Robotic Institute [I've Built four Robots]. </br>
 
