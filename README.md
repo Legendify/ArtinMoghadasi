@@ -15,7 +15,7 @@
 
 **Projects** </br>
 
-*Telegram Bots* </br> 🎼HeartBeat | MusicFinder https://t.me/VoiceHeartbeatBot </br>
+*Telegram Bots* </br> 🎼HeartBeat | Music Finder https://t.me/VoiceHeartbeatBot </br>
 
 ⚡ *C++* </br>
 Games - Calculators - Tools https://github.com/ArtinMoghadasi/CPP </br>
