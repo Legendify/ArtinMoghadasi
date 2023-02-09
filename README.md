@@ -14,22 +14,14 @@
 <a href="https://www.instgram.com/artin.mgs" target="_blank">Personal Account</a> </br> GitHub </br> <a href="https://www.github.com/ArtinMoghadasi" target="_blank">Personal Account</a> | <a href="https://www.github.com/ArtinProgrammer14" target="_blank">Work Account</a>
 
 **Projects** </br>
-
 *Telegram Bots* </br> 🎼HeartBeat | Music Finder https://t.me/VoiceHeartbeatBot </br>
-
 ⚡ *C++* </br>
-Games - Calculators - Tools https://github.com/ArtinMoghadasi/CPP </br>
-
+<a href="https://github.com/ArtinMoghadasi/CPP" target="_blank"> Games - Calculators - Tools </a></br>
 🐍 *Python* </br>
-Games - Apps - Graphics - Tools https://github.com/ArtinMoghadasi/Python </br>
-
-🦾 *Robot Programs On TRI* </br>
-https://github.com/ArtinMoghadasi/Robotic </br>
-
+<a href="https://github.com/ArtinMoghadasi/Python" target="_blank">Games - Apps - Graphics - Tools</a></br>
+🦾 *Robotic* </br> <a href="https://github.com/ArtinMoghadasi/Robotic">Robot Programs</a></br>
 <!-- *PCB Designs With Altium Designer*: 
-
 *Board Designs with Proteus*: 
-
 *C Programs with CodeVision*:
 -->
 **Contact** </br>
