@@ -11,7 +11,7 @@
 🤖 Robotic Student on Technorobiran Robotic Institute [I've Built four Robots]. </br>
 
 **Medias** </br> Gang Coder Community for Programmers </br> <a href="https://www.instgram.com/gang.coder" target="_blank">Instagram</a> | <a href="https://www.telegram.me/GangCoderCH" target="_blank">Telegram</a> | <a href="https://www.youtube.com/@gangcoder" target="_blank">YouTube</a> </br> Instagram Accounts </br> <a href="https://www.instgram.com/artin.projects" target="_blank">Projects Account</a> |
-<a href="https://www.instgram.com/artin.mgs" target="_blank">Personal Account</a> </br> GitHub </br> <a href="https://www.github.com/ArtinMoghadasi" target="_blank">Personal Account</a> <a href="https://www.github.com/ArtinProgrammer14" target="_blank">Work Account</a>
+<a href="https://www.instgram.com/artin.mgs" target="_blank">Personal Account</a> </br> GitHub </br> <a href="https://www.github.com/ArtinMoghadasi" target="_blank">Personal Account |</a> <a href="https://www.github.com/ArtinProgrammer14" target="_blank">Work Account</a>
 
 **Projects** </br>
 
