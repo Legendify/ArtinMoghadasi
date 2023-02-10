@@ -20,7 +20,8 @@
 <a href="https://t.me/VoiceHeartbeatBot" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Cartoon_Robot.svg/508px-Cartoon_Robot.svg.png" style="width:80px; eight:80px"/>
 </a></br>
 ### Contact
-<a href="https://artinmoghadasi7@gmail.com" target="_blank"><img src="https://icons-for-free.com/download-icon-email+gmail+google+internet+message+icon-1320192780259745073_0.svg" style="width:120px; eight:60px"/>
+<a href="artinmoghadasi7@gmail.com" target="_blank">
+  <img src="https://icons-for-free.com/download-icon-email+gmail+google+internet+message+icon-1320192780259745073_0.svg" style="width:120px; eight:60px"/>
 </a>
 
 
