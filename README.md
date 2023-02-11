@@ -15,7 +15,9 @@
 
 ### Skills
 <a href="https://github.com/ArtinMoghadasi/CPP" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CPP.svg" style="width:80px; eight:80px"/></a>
-<a href="https://github.com/ArtinMoghadasi/Python" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="width:80px; eight:80px"/></a></br>
+<a href="https://github.com/ArtinMoghadasi/Python" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="width:80px; eight:80px"/></a>
+<a href="https://github.com/ArtinMoghadasi/WebDev" target="_blank"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" style="width:200px; height:90px"/></a></br>
+
 ### Projects
 <a href="https://t.me/VoiceHeartbeatBot" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Cartoon_Robot.svg/508px-Cartoon_Robot.svg.png" style="width:80px; eight:80px"/>
 </a></br>
