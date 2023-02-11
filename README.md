@@ -5,7 +5,7 @@
 🌱 Learning Advanced Python & JavaScript. </br>
 🧐 Interested in Create and Develop Everything Like Games - Websites - Football Player Robots - Telegram Bots - Management Systems </br>
 💬 Ask me about Your C++ & Python Projects - Football Player Robots - Web Concepts Like "How does a web page work?" or "How is it safe?". </br>
-🤖 Robotic Student on Technorobiran Robotic Institute(TRI). </br>
+🤖 Robotic Student at Technorobiran Robotic Institute(TRI). </br>
 
 ### Medias
 <a href="https://www.instgram.com/gang.coder" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" style="width:80px;height:80px"/>
