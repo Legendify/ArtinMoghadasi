@@ -1,11 +1,11 @@
 ### "Hello, World"👋
 <!--
 **ArtinMoghadasi/ArtinMoghadasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-🔭 Currently Workig on VegaTools (Telegram Bot - Website - App) </br>
+🔭 Currently Workig on VegaTools Include: Telegram Bot -Website - App </br>
 🌱 Learning Advanced Python & JavaScript. </br>
 🧐 Interested in Create and Develop Everything Like Games - Websites - Football Player Robots - Telegram Bots - Management Systems </br>
 💬 Ask me about Your C++ & Python Projects - Football Player Robots - Web Concepts Like "How does a web page work?". </br>
-🤖 Robotic Student at Technorobiran Robotic Institute(TRI). </br>
+🤖 Robotic Student at Technorobiran Robotic Institute (TRI). </br>
 
 ### Medias
 <a href="https://www.instgram.com/gang.coder" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" style="width:80px;height:80px"/>
