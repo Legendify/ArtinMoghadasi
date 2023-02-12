@@ -1,4 +1,4 @@
-### "Hello, World"👋
+### Hello, World👋
 <!--
 **ArtinMoghadasi/ArtinMoghadasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 🔭 Currently Workig on VegaTools Include: Telegram Bot -Website - App </br>
@@ -23,7 +23,7 @@
 </a></br>
 ### Contact
 <a href="mailto: artinmoghadasi7@gmail.com" target="_blank">
-  <img src="https://icons-for-free.com/download-icon-email+gmail+google+internet+message+icon-1320192780259745073_0.svg" style="width:120px; eight:60px"/>
+  <img src="https://icons-for-free.com/download-icon-email+gmail+google+internet+message+icon-1320192780259745073_0.svg" style="width:60px; eight:px"/>
 </a>
 
 
