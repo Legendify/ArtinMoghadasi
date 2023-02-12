@@ -4,7 +4,7 @@
 🔭 Currently Workig on VegaTools (Telegram Bot - Website - App) </br>
 🌱 Learning Advanced Python & JavaScript. </br>
 🧐 Interested in Create and Develop Everything Like Games - Websites - Football Player Robots - Telegram Bots - Management Systems </br>
-💬 Ask me about Your C++ & Python Projects - Football Player Robots - Web Concepts Like "How does a web page work?" or "How is it safe?". </br>
+💬 Ask me about Your C++ & Python Projects - Football Player Robots - Web Concepts Like "How does a web page work?". </br>
 🤖 Robotic Student at Technorobiran Robotic Institute(TRI). </br>
 
 ### Medias
