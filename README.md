@@ -19,8 +19,9 @@
 <a href="https://github.com/ArtinMoghadasi/WebDev" target="_blank"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" style="width:200px; height:90px"/></a></br>
 
 ### Projects
-<a href="https://t.me/VoiceHeartbeatBot" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Cartoon_Robot.svg/508px-Cartoon_Robot.svg.png" style="width:80px; eight:80px"/>
-</a></br>
+**Telegram Bots** </br>
+<a href="https://www.telegram.me/VoiceHearbeatBot" target="_blank">Music Finder Bot</a></br>
+<a href="https://www.telegram.me/VegaYouTubedlBot" target="_blank">YouTube Video Downloader Bot</a></br>
 ### Contact
 <a href="mailto: artinmoghadasi7@gmail.com" target="_blank">
   <img src="https://icons-for-free.com/download-icon-email+gmail+google+internet+message+icon-1320192780259745073_0.svg" style="width:60px; eight:px"/>
