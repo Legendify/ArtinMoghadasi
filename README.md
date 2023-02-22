@@ -20,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/gang.coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gang.coder" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/artinmoghadasi" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="GeeksforGeeks" height="30" width="30" /></a>
 <a href="https://medium.com/@artingeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@artingeek" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gang.coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gang.coder" height="30" width="40" /></a>
 </p>
