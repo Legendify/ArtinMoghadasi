@@ -1,33 +1,26 @@
-### Hello, World👋
-<!--
-**ArtinMoghadasi/ArtinMoghadasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-🔭 Currently Workig on VegaTools Include: Telegram Bot -Website - App </br>
-🌱 Learning Advanced Python & JavaScript. </br>
-🧐 Interested in Create and Develop Everything Like Games - Websites - Football Player Robots - Telegram Bots - Management Systems </br>
-💬 Ask me about Your C++ & Python Projects - Football Player Robots - Web Concepts Like "How does a web page work?". </br>
-🤖 Robotic Student at Technorobiran Robotic Institute (TRI). </br>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-### Medias
-<a href="https://www.instgram.com/gang.coder" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" style="width:80px;height:80px"/>
-</a> <a href="https://www.telegram.me/GangCoderCH" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" style="width:80px;height:80px" />
-</a><a href="https://www.youtube.com/@gangcoder" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" style="width:100px;height:80px"/>
-</a> </br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=artinmogadasi&label=Profile%20views&color=0e75b6&style=flat" alt="artinmogadasi" /> </p>
 
-### Skills
-<a href="https://github.com/ArtinMoghadasi/CPP" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CPP.svg" style="width:80px; eight:80px"/></a>
-<a href="https://github.com/ArtinMoghadasi/Python" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" style="width:80px; eight:80px"/></a>
-<a href="https://github.com/ArtinMoghadasi/WebDev" target="_blank"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" style="width:200px; height:90px"/></a></br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=artinmogadasi" alt="artinmogadasi" /></a> </p>
 
-### Projects
-**Telegram Bots** </br>
-<a href="https://www.telegram.me/VoiceHearbeatBot" target="_blank">Music Finder Bot</a></br>
-<a href="https://www.telegram.me/VegaYouTubedlBot" target="_blank">YouTube Video Downloader Bot</a></br>
-### Contact
-<a href="mailto: artinmoghadasi7@gmail.com" target="_blank">
-  <img src="https://icons-for-free.com/download-icon-email+gmail+google+internet+message+icon-1320192780259745073_0.svg" style="width:60px; eight:px"/>
-</a>
+- 🔭 I’m currently working on **Vega Project**
 
+- 🌱 I’m currently learning **Advanced Python & JavaScript.**
 
+- 💬 Ask me about **Web - Robotic - Programming Concepts**
 
+- 📫 How to reach me **artinmoghadasi7@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/gang.coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gang.coder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/gang.coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gang.coder" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=artinmogadasi&show_icons=true&locale=en" alt="artinmogadasi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artinmogadasi&" alt="artinmogadasi" /></p>
