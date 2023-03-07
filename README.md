@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **artinmoghadasi7@gmail.com**
 
-### Blogs posts
+<!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
