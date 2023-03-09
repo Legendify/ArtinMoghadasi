@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artinmoghadasi&label=Profile%20views&color=0e75b6&style=flat" alt="artinmoghadasi" /> </p>
 
-- 🔭 I’m currently working on **Gang Coder Bot Project**
+- 🔭 I’m currently working on [Gang Coder Bot Project](www.github.com/ArtinMoghadasi/GangCoderBot)
 
-- 🌱 I’m currently learning **Advanced Python & JavaScript.**
+- 🌱 I’m currently learning **Advanced Python + Web & Security.**
 
-- 👯 I’m looking to collaborate on [Vega Project](www.github.com/ArtinMoghadasi/GangCoderBot)
+<!--- 👯 I’m looking to collaborate on [Vega Project](www.github.com/ArtinMoghadasi/GangCoderBot)-->
 
 - 💬 Ask me about **Web - Robotic - Programming Concepts**
 
