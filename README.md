@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artin Moghadasi</h1>
-<h3 align="center">Computer Programmer - Webmaster a bit - Bot Developer - Footballer Robot & Robotic Student - Tech Blogger                 </h3>
+<h3 align="center">Programmer - Webmaster a bit - Bot Developer - Footballer Robot Creator & Robotic Student - Content Creator </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artinmoghadasi&label=Profile%20views&color=0e75b6&style=flat" alt="artinmoghadasi" /> </p>
 
