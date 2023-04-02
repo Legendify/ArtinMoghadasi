@@ -4,11 +4,10 @@ Footballer Robot Creator & Robotic Student - Content Creator </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artinmoghadasi&label=Profile%20views&color=0e75b6&style=flat" alt="artinmoghadasi" /> </p>
 
-- 🔭 I’m currently working on [ChatGPT DALL-E 2 Project](www.github.com/ArtinMoghadasi/ChatGPTDALL-E)
-
+- 🔭 I’m currently working on <a href="https://github.com/ArtinMoghadasi/ChatGPTDall-E"> ChatGPT DALL-E 2 Project </a>
 - 🌱 I’m currently learning **Advanced Python + Web & Security + Telegram Bot Development.**
 
-- 👯 I’m looking to collaborate on [ChatGPT DALL-E 2 Telegram Bot](www.github.com/ArtinMoghadasi/ChatGPTDALL-E) --> Send Email or Message via Contact Ways for Collaboration
+- 👯 I’m looking to collaborate on <a href="https://github.com/ArtinMoghadasi/useful-websites"> Useful Websites Project </a> --> Send Email or Message via Contact Ways for Collaboration
  
 - 💬 Ask me about **Computer Programming - Web & Seurity - Robotic & Electronic - Computer Based Technologies - Also Sky & Astronomy**
 
