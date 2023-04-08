@@ -21,8 +21,8 @@ Footballer Robot Creator & Robotic Student - Content Creator </h3>
 <img align="center" src="https://w0.peakpx.com/wallpaper/256/986/HD-wallpaper-rick-sanchez-colours-morty-rick-and-morty-tv-show.jpg" alt="Social Medias" height="40"width="30"/</a></p>                                                               
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/artin.projects" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gang.coder" height="30" width="40" /></a>
-<a href="https://t.me/NullLegend" target="blank"><img align="center" src="https://seeklogo.com/images/T/telegram-logo-6E3A371CF2-seeklogo.com.png" alt="VEG" height="30" width="30"/></a>
+<a href="https://instagram.com/nulllegend01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gang.coder" height="30" width="40" /></a>
+<a href="https://t.me/NullLegend01" target="blank"><img align="center" src="https://seeklogo.com/images/T/telegram-logo-6E3A371CF2-seeklogo.com.png" alt="VEG" height="30" width="30"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
