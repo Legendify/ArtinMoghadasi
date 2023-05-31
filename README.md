@@ -13,9 +13,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Connect With Me</h3>
 <p align="left">
-<a href="https://twitter.com/nulllegend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nulllegend" height="30" width="40" /></a>
+<a href="https://twitter.com/ArtinMoghadasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ArtinMoghadasi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/artin-moghadasi-8aa5a2262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artin-moghadasi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21487607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21487607" height="30" width="40" /></a>
 <a href="https://facebook.com/profile.php?id=100087873744197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="artin-moghadasi" height="30" width="40" /></a>
