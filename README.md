@@ -19,9 +19,9 @@
 <a href="https://linkedin.com/in/artin-moghadasi-8aa5a2262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artin-moghadasi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21487607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21487607" height="30" width="40" /></a>
 <a href="https://facebook.com/profile.php?id=100087873744197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="artin-moghadasi" height="30" width="40" /></a>
-<a href="https://instagram.com/nulllegend01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nulllegend01" height="30" width="40" /></a>
-<a href="https://medium.com/@nulllegend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nulllegend" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nulllegend01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nulllegend01" height="30" width="40" /></a>
+<a href="https://instagram.com/codewithartin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="CodeWithArtin" height="30" width="40" /></a>
+<a href="https://medium.com/@artinmoghadasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ArtinMoghadasi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/codewithartin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="CodeWithArtin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
